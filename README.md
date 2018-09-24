@@ -1,0 +1,2 @@
+# orar
+School schedule generator
